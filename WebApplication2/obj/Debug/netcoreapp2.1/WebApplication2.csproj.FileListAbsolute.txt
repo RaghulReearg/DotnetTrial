@@ -1,0 +1,14 @@
+D:\dotnetCoreApps\Appone\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+D:\dotnetCoreApps\Appone\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+D:\dotnetCoreApps\Appone\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+D:\dotnetCoreApps\Appone\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+D:\dotnetCoreApps\Appone\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+D:\dotnetCoreApps\Appone\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb

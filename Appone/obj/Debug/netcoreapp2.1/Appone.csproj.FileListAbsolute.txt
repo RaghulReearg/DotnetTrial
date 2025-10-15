@@ -1,0 +1,12 @@
+D:\dotnetCoreApps\Appone\Appone\bin\Debug\netcoreapp2.1\appsettings.json
+D:\dotnetCoreApps\Appone\Appone\bin\Debug\netcoreapp2.1\Appone.deps.json
+D:\dotnetCoreApps\Appone\Appone\bin\Debug\netcoreapp2.1\Appone.runtimeconfig.json
+D:\dotnetCoreApps\Appone\Appone\bin\Debug\netcoreapp2.1\Appone.runtimeconfig.dev.json
+D:\dotnetCoreApps\Appone\Appone\bin\Debug\netcoreapp2.1\Appone.dll
+D:\dotnetCoreApps\Appone\Appone\obj\Debug\netcoreapp2.1\Appone.csprojAssemblyReference.cache
+D:\dotnetCoreApps\Appone\Appone\obj\Debug\netcoreapp2.1\Appone.csproj.CoreCompileInputs.cache
+D:\dotnetCoreApps\Appone\Appone\obj\Debug\netcoreapp2.1\Appone.AssemblyInfoInputs.cache
+D:\dotnetCoreApps\Appone\Appone\obj\Debug\netcoreapp2.1\Appone.AssemblyInfo.cs
+D:\dotnetCoreApps\Appone\Appone\bin\Debug\netcoreapp2.1\Appone.pdb
+D:\dotnetCoreApps\Appone\Appone\obj\Debug\netcoreapp2.1\Appone.dll
+D:\dotnetCoreApps\Appone\Appone\obj\Debug\netcoreapp2.1\Appone.pdb
